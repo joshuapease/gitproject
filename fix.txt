@@ -1,3 +1,4 @@
 # FIX.TXT
 This is our fixed section
-This is our bug fixi!!!!!!
+
+This was our bug fix!!!!!!
