@@ -1,4 +1,4 @@
-# Git Essentials (A Tut+ Premium Course)
+# Git Essentials
 
 You are reading the README for this fake project.
 The only reason this project exists is to give
